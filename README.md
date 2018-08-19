@@ -15,6 +15,9 @@ console.log(ArrayTypes([1, 'Hello', 2, 'World']).elementTypes())
 //=> ['number', 'string']
 ```
 
+### TODO
+- Implement isOfSingleType()
+
 ### License
 - MIT
 
