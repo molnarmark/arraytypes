@@ -1,5 +1,5 @@
 {
-  "name": "arraytypes",
+  "name": "get-array-types",
   "version": "0.1.1",
   "description": "Get a beautiful representation of values in an Array.",
   "main": "index.js",
