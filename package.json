@@ -1,0 +1,25 @@
+{
+  "name": "arraytypes",
+  "version": "0.1.1",
+  "description": "Get a beautiful representation of values in an Array.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/molnarmark/arraytypes.git"
+  },
+  "keywords": [
+    "array",
+    "array",
+    "types",
+    "types"
+  ],
+  "author": "Mark Molnar <molnarpw@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/molnarmark/arraytypes/issues"
+  },
+  "homepage": "https://github.com/molnarmark/arraytypes#readme"
+}
